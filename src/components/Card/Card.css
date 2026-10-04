@@ -1,0 +1,24 @@
+.Card {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 80px;
+  height: 100px;
+  display: grid;
+}
+
+.Card-backside {
+  background-color: green;
+}
+
+.Card-red {
+  color: red;
+}
+
+.Card-black {
+  color: black;
+}
+
+.Card-center {
+  display: grid;
+  align-items: center;
+}
